@@ -1,0 +1,7 @@
+Key_Test,Is_Unique,Duplicate_Count
+Row ID,True,0
+Order ID,False,4985
+Product ID,False,8132
+Customer ID,False,9201
+OrderID + ProductID,False,8
+OrderID + ProductID + RowID,True,0

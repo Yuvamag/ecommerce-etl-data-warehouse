@@ -1,0 +1,6 @@
+CREATE DATABASE SalesDW;
+GO
+
+USE SalesDW;
+GO
+

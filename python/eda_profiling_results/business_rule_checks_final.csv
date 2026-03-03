@@ -1,0 +1,6 @@
+Rule,Violation_Count
+Negative Sales,0
+Negative Profit,1871
+Discount > 1,0
+Discount < 0,0
+Ship Date before Order Date,0
